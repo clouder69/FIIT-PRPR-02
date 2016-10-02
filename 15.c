@@ -20,6 +20,8 @@ int main()
 			printf("STOP\n");
 		else if(c == 'z' || c == 'Z')
 			printf("IDES\n");
+		else if(c == 'o' || c == 'O')
+			printf("POZOR\n");
 		else if(c == 'k' || c == 'K')
 			break;
 	}
